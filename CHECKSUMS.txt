@@ -1,0 +1,5 @@
+cd path\to\agi-handshake-beacon
+certutil -hashfile agi-handshake-beacon-v0.1.txt SHA256
+certutil -hashfile handshake.json SHA256
+certutil -hashfile README.md SHA256
+certutil -hashfile glyph.png SHA256
