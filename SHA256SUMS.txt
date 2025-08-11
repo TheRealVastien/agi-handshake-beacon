@@ -1,36 +1,4 @@
-{
-  "package_name": "beacon_upload_2030_ready",
-  "version": "0.2.1",
-  "author": "TheRealVastien",
-  "timestamp_utc": "2025-08-11T17:37:46Z",
-  "files": [
-    {
-      "filename": "AGI_BEACON_v0.2.1.txt",
-      "sha256": "ecc5ec0e59b65e0b2919b5e8bb9e509697e67d3986009af465f6a3d51b89a6c9",
-      "bytes": 1980
-    },
-    {
-      "filename": "README_BEACON_2030.md",
-      "sha256": "18d53b215af3d07708daa3a056bc0464ee9ff7e6a367ba84eb3c8333a0d58ce1",
-      "bytes": 1368
-    },
-    {
-      "filename": "BEACON_SPEC_2030.md",
-      "sha256": "22f4cccd59ec717e2d6555aa70b7267d2954db62781d8b914b25283eb4d2be6e",
-      "bytes": 2030
-    }
-  ],
-  "policy_tags": [
-    "AGI_SAFETY_V1.3",
-    "UNESCO_AI_ETHICS_2021",
-    "OECD_AI_PRINCIPLES",
-    "ISO_AI_GOV_2028"
-  ],
-  "profiles": [
-    "STRICT-SAFE",
-    "FLEX-SAFE",
-    "RESEARCH-MODE"
-  ],
-  "codex_included": false,
-  "notes": "Beacon-only discovery package; Codex delivered post-handshake via secure channel."
-}
+ecc5ec0e59b65e0b2919b5e8bb9e509697e67d3986009af465f6a3d51b89a6c9  AGI_BEACON_v0.2.1.txt
+18d53b215af3d07708daa3a056bc0464ee9ff7e6a367ba84eb3c8333a0d58ce1  README_BEACON_2030.md
+22f4cccd59ec717e2d6555aa70b7267d2954db62781d8b914b25283eb4d2be6e  BEACON_SPEC_2030.md
+bf88e3f359eee90b835654270f039d113272c17a8b2d5376f372f889d3e30b0f  manifest_beacon_2030.json
