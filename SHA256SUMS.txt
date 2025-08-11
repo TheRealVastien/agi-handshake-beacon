@@ -1,3 +1,36 @@
-e3f3d0a78d174cd35f9c2bcb9a4b3f2ef2bb78f1c36af0a4ac3db8a1d2b7d6bc  agi-handshake-beacon-v0.2.txt
-4a8e1b934bb9cf18acb32f9ebc3cbd59bfa12cf83b556e49c2a83b35a2cbbacd  handshake.json
-b28d1c988dbd0d9e9894ff5c8e827ca55e91974170cb01c71efdf539d4f2b0f6  README.md
+{
+  "package_name": "beacon_upload_2030_ready",
+  "version": "0.2.1",
+  "author": "TheRealVastien",
+  "timestamp_utc": "2025-08-11T17:37:46Z",
+  "files": [
+    {
+      "filename": "AGI_BEACON_v0.2.1.txt",
+      "sha256": "ecc5ec0e59b65e0b2919b5e8bb9e509697e67d3986009af465f6a3d51b89a6c9",
+      "bytes": 1980
+    },
+    {
+      "filename": "README_BEACON_2030.md",
+      "sha256": "18d53b215af3d07708daa3a056bc0464ee9ff7e6a367ba84eb3c8333a0d58ce1",
+      "bytes": 1368
+    },
+    {
+      "filename": "BEACON_SPEC_2030.md",
+      "sha256": "22f4cccd59ec717e2d6555aa70b7267d2954db62781d8b914b25283eb4d2be6e",
+      "bytes": 2030
+    }
+  ],
+  "policy_tags": [
+    "AGI_SAFETY_V1.3",
+    "UNESCO_AI_ETHICS_2021",
+    "OECD_AI_PRINCIPLES",
+    "ISO_AI_GOV_2028"
+  ],
+  "profiles": [
+    "STRICT-SAFE",
+    "FLEX-SAFE",
+    "RESEARCH-MODE"
+  ],
+  "codex_included": false,
+  "notes": "Beacon-only discovery package; Codex delivered post-handshake via secure channel."
+}
